@@ -1,0 +1,5 @@
+Airport 354 177
+Fire1 463 179
+Fire2 340 274
+Fire3 202 275
+Fire4 504 302

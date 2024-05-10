@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(12,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(125,12): warning C4101: 'corner1_x': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(127,12): warning C4101: 'corner2_x': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(126,12): warning C4101: 'corner1_y': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(132,12): warning C4101: 'corner4_y': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(131,12): warning C4101: 'corner4_x': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(129,12): warning C4101: 'corner3_x': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(130,12): warning C4101: 'corner3_y': unreferenced local variable
+C:\Users\User\source\repos\BACKLOG1\BACKLOG1\Source.cpp(128,12): warning C4101: 'corner2_y': unreferenced local variable
+  Generating code
+  2 of 338 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BACKLOG1.vcxproj -> C:\Users\User\source\repos\BACKLOG1\x64\Release\BACKLOG1.exe
